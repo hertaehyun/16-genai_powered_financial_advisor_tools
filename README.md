@@ -66,7 +66,7 @@ The examples in this repository are for **demonstration and educational purposes
     curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
     python get-pip.py
     ```
-
+ 
 ### Step 1: Create Virtual Environment
 
 ```bash
